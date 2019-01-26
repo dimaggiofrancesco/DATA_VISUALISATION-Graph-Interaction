@@ -22,9 +22,9 @@ below this value, or white if they contain this value.
 
 
 BARS COLORS:  
-Dark Blue: y input value is definitely above the bar
+Dark Blue: y input value is definitely above the bar  
 4 graduations of Blue: y input value is inside the 95% confidence interval (above the bar mean value)  
-White: y value is contained in the bar
+White: y value is contained in the bar  
 4 graduations of Red: y input value is inside the 95% confidence interval (belove the bar mean value)  
 Dark Red: y input value is definitely below the bar 
 
