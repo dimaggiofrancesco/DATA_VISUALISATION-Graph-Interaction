@@ -29,11 +29,13 @@ Blue: Bar is definitely below the y input value
 White: Bar contains the y input value
 Red: Bar is definitely above the y input value
 
-The 95% confidence interval is calculated as 
+The error bars are calculated as:
 
+![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
 
-![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%3D%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
-
-where n is the number of observations
- \alpha  is 
+where:  
+x is the mean  
+z is the "Z" value for the Confidence Interval. When the CI is 95% the Z value is 1.96  
+&sigma; is the standard deviation  
+n is the number of observations  
 
