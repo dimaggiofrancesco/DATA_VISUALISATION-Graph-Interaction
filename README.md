@@ -35,7 +35,7 @@ The error bars are calculated as:
 
 where:  
 x is the mean  
-z is the "Z" value for the Confidence Interval. When the CI is 95% the Z value is 1.96  
+z is the "Z" value for the Confidence Interval (CI). For CI equal 95%, the Z value is 1.96  
 &sigma; is the standard deviation  
 n is the number of observations  
 
