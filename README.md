@@ -18,9 +18,10 @@ Dark Red: y input value is definitely below the bar
 
 **The error bars are calculated as:**
 
-![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
+![equation](http://latex.codecogs.com/gif.latex?E%20%3D%20%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
 
 where:  
+E is the error bar  
 x is the mean  
 z is the "Z" value for the Confidence Interval (CI). For CI=95%, the Z value is 1.96  
 &sigma; is the standard deviation  
