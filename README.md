@@ -1,4 +1,7 @@
 # Graph-Interaction
+  
+**This repository was taken from an assignment I did on Coursera.org platform:  
+Applied Plotting, Charting & Data Representation in Python**  
 
 **Project aim:**
 * Create a bar chart
