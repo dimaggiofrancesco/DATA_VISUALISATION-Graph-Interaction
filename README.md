@@ -1,6 +1,6 @@
 # Graph-Interaction
 
-In this [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf)   
+In this [paper] (https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf)  
 the authors describe the challenges users face when trying to make judgements about probabilistic data  
 generated through samples. As an example, they look at a bar chart of four years of data (replicated below in Figure 1).  
 Each year has a y-axis value, which is derived from a sample of a larger dataset. For instance, the first value might  
