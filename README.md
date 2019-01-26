@@ -1,6 +1,6 @@
 # Graph-Interaction
 
-Aim:  
+**Project aim:**
 * Create a bar chart
 * Add the confidence interval
 * Let the user choose a y-axis value (interaction)
@@ -16,15 +16,14 @@ One of the solutions proposed for this problem is to allow users to indicate the
 and then draw a horizontal line and color bars based on this value.  
 *The bar colors change with respect to what value the user has selected.*  
 
-**BAR COLOR:**  
+**Bar color:**  
 Dark Blue: y input value is definitely above the bar  
 4 graduations of Blue: y input value is inside the 95% confidence interval (above the bar mean value)  
 White: y value is contained in the bar  
 4 graduations of Red: y input value is inside the 95% confidence interval (below the bar mean value)  
 Dark Red: y input value is definitely below the bar 
 
-**The error bars are calculated as:**
-
+**The error bar is calculated as:**
 ![equation](http://latex.codecogs.com/gif.latex?E%20%3D%20%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
 
 where:  
@@ -33,4 +32,3 @@ x is the mean
 z is the "Z" value for the Confidence Interval (CI). For CI=95%, the Z value is 1.96  
 &sigma; is the standard deviation  
 n is the number of observations  
-
