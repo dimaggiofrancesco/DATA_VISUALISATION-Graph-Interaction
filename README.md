@@ -25,7 +25,7 @@ Dark Red: y input value is definitely below the bar
   
 **The error bar is calculated as:**  
    
-<center>![equation](http://latex.codecogs.com/gif.latex?E%20%3D%20%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)</center>
+<center> ![equation](http://latex.codecogs.com/gif.latex?E%20%3D%20%5Cbar%7Bx%7D%20%5Cpm%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D) </center>
 
 where:  
 E is the error bar  
