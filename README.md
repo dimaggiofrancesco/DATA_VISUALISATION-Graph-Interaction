@@ -33,3 +33,7 @@ The 95% confidence interval is calculated as
 
 
 ![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%3D%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
+
+where n is the number of observations
+ \alpha  is 
+
