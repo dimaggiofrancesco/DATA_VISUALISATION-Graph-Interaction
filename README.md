@@ -13,7 +13,7 @@ The bar colors change with respect to what value the user has selected.
 Dark Blue: y input value is definitely above the bar  
 4 graduations of Blue: y input value is inside the 95% confidence interval (above the bar mean value)  
 White: y value is contained in the bar  
-4 graduations of Red: y input value is inside the 95% confidence interval (belove the bar mean value)  
+4 graduations of Red: y input value is inside the 95% confidence interval (below the bar mean value)  
 Dark Red: y input value is definitely below the bar 
 
 **The error bars are calculated as:**
