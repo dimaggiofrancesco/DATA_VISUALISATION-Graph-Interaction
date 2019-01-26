@@ -1,5 +1,12 @@
 # Graph-Interaction
-  
+
+Aim:  
+* Create a bar chart
+* Add the confidence interval
+* Let the user choose a y-axis value (interaction)
+* The bar colors change in accordance to the y-axis value the uses has selected  
+
+**Project summary:**  
 The code plots a bar chart of four years of data. Each year has a y-axis value, which is derived from a sample of a larger dataset.  
 For instance, the first value might be the number votes in a given district or riding for 1992, with the average being around  
 33,000. On top of this is plotted the **95% confidence interval** for the mean. A challenge that users face is that, for a  
