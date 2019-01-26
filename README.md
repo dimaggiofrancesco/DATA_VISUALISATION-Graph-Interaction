@@ -22,9 +22,11 @@ below this value, or white if they contain this value.
 
 
 BARS COLORS:  
-Blue: Bar is definitely below the y input value  
-White: Bar contains the y input value  
-Red: Bar is definitely above the y input value  
+Dark Blue: y input value is definitely above the bar
+4 graduations of Blue: y input value is inside the 95% confidence interval (above the bar mean value)  
+White: y value is contained in the bar
+4 graduations of Red: y input value is inside the 95% confidence interval (belove the bar mean value)  
+Dark Red: y input value is definitely below the bar 
 
 The error bars are calculated as:
 
@@ -32,7 +34,7 @@ The error bars are calculated as:
 
 where:  
 x is the mean  
-z is the "Z" value for the Confidence Interval (CI). For CI equal 95%, the Z value is 1.96  
+z is the "Z" value for the Confidence Interval (CI). For CI=95%, the Z value is 1.96  
 &sigma; is the standard deviation  
 n is the number of observations  
 
