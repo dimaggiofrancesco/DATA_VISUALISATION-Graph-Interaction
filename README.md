@@ -9,7 +9,7 @@ One of the solutions proposed for this problem is to allow users to indicate the
 and then draw a horizontal line and color bars based on this value.  
 The bar colors change with respect to what value the user has selected.  
 
-**BARS COLORS:**  
+**BAR COLOR:**  
 Dark Blue: y input value is definitely above the bar  
 4 graduations of Blue: y input value is inside the 95% confidence interval (above the bar mean value)  
 White: y value is contained in the bar  
