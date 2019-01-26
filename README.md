@@ -2,9 +2,9 @@
   
 The code plots a bar chart of four years of data. Each year has a y-axis value, which is derived from a sample of a larger dataset.  
 For instance, the first value might be the number votes in a given district or riding for 1992, with the average being around  
-33,000. On top of this is plotted the **95% confidence interval** for the mean. A challenge that users face is that,  
-for a given y-axis value (e.g. 42,000), it is difficult to know which x-axis values are most likely to be representative,  
-because the confidence levels overlap and their distributions are different (the lengths of the confidence interval bars are unequal).  
+33,000. On top of this is plotted the **95% confidence interval** for the mean. A challenge that users face is that, for a  
+given y-axis value (e.g. 42,000), it is difficult to know which x-axis values are most likely to be representative, because  
+the confidence levels overlap and their distributions are different (the lengths of the confidence interval bars are unequal).  
 One of the solutions proposed for this problem is to allow users to indicate the y-axis value of interest (e.g. 42,000)  
 and then draw a horizontal line and color bars based on this value.  
 The bar colors change with respect to what value the user has selected.  
