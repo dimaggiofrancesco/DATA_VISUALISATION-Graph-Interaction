@@ -29,7 +29,7 @@ Blue: Bar is definitely below the y input value
 White: Bar contains the y input value
 Red: Bar is definitely above the y input value
 
-The 95% confidence interval is calculated as \bar{x}= z \ast \frac{\sigma }{\sqrt{n}}
+The 95% confidence interval is calculated as 
 
 
-![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+![equation](http://latex.codecogs.com/gif.latex?%5Cbar%7Bx%7D%3D%20z%20%5Cast%20%5Cfrac%7B%5Csigma%20%7D%7B%5Csqrt%7Bn%7D%7D)
